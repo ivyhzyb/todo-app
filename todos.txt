@@ -1,4 +1,6 @@
 read books
-clean
+clean the floor
 working
-mater python
+master python
+add
+cook

@@ -1,6 +1,3 @@
 read books
 clean the floor
-working
 master python
-add
-cook
